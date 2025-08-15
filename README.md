@@ -1,6 +1,8 @@
-# SalesSight: A Grocery Sales Forecasting Tool
+# SalesSight: A Grocery Sales Forecasting Tool 
 
 SalesSight is a powerful yet user-friendly grocery sales forecasting tool that leverages machine learning to predict sales with high accuracy. At its core, it uses LightGBM models optimized for grocery retail data, providing businesses with actionable insights for inventory management and sales planning.
+
+> **⚠️ Important**: The machine learning models (7GB) are distributed separately via [GitHub Releases](https://github.com/Dhruv012/SalesSight/releases). Please download `models.zip` before running the application.
 
 ## 🌟 Features
 
@@ -130,8 +132,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Model Download Required**: The machine learning models must be downloaded separately from the Releases page
 - **Data Requirements**: Ensure your data follows the expected format for optimal predictions
 - **Performance**: Initial model loading may take a few moments due to file size
-
-
----
-
-**Made with ❤️ for better grocery sales forecasting**
